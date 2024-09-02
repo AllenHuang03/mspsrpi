@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is the home page for the MSPSRPI project. Check out our overview, status, and publications.
