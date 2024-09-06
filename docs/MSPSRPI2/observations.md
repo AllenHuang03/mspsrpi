@@ -51,4 +51,10 @@ J1745+1017	2024-04-16
 J1802-2124	2024-05-01
 J1756-2251	2024-05-01
 J1811-2405	2024-05-08
-	
+
+The following pulsars have had their Astrometric observation performed:
+
+J0340+4130      2024-08-23
+J1614-2230      In the queue
+J1653-2054      In the queue
+J0023+0923      In the queue	
